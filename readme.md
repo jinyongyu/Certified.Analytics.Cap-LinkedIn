@@ -12,11 +12,22 @@ In the information age, companies need skilled professionals who can glean usefu
 - Documenting and reporting findings
 - Methodology
 - Descriptive, predictive, and prescriptive analysis
+- Building, running, and evaluating models
+- Calibrating models and data
+- Validating your model performance
+- Documenting evaluation results
+- Developing a data model deployment approach and plan
+- Project management approaches
+- Tracking model quality with specific criteria
+- Evaluating the business benefit of a model over time
+- Managing data model life cycles
 
 **Skills covered**
 - Business Intelligence (BI)
 - Business Analytics
 - Data Analytics
+- Statistics
+- Data Modeling
 
 1. Certified Analytics Professional (CAP)
    - Introduction
