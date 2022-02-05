@@ -29,6 +29,7 @@ In the information age, companies need skilled professionals who can glean usefu
 - Statistics
 - Data Modeling
 
+---
 1. Certified Analytics Professional (CAP)
    - Introduction
    - CAP History
